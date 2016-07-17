@@ -1,0 +1,8 @@
+name: Grades
+version: 1
+main: ch.reaamz.grades.Grades
+
+commands:
+ grade:
+  description: grade
+  usage: /<command>
